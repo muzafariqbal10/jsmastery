@@ -1,0 +1,381 @@
+body {
+    margin: 0%;
+    font-family: sans-serif;
+}
+
+.navbar {
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    background-color: #161e2c ;
+    color: aliceblue;
+    display: flex;
+    text-align: center;
+    align-items: center;
+
+}
+.navbar>p{
+   position: absolute;
+   font-size: 24px;
+   left: 95px;
+   font-weight: bold;
+}
+.navbar>p>span{
+color:  #00ffb2;
+}
+.one {
+    width: 40px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: rgb(36 44 56 );
+    margin-left: 70px;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    left: 700px;
+
+
+}
+
+.one>p {
+    position: relative;
+    bottom: 12px;
+    font-size: 20px;
+}
+
+.clock>.days{
+    font-size: 12px;
+    position: relative;
+    left: 380px;
+    
+    
+   
+}
+.clock>.hours{
+    font-size: 12px;
+    position: relative;
+    left: 456px;
+    
+    
+   
+}
+.clock>.mins{
+    font-size: 12px;
+    position: relative;
+    left: 523px;
+
+    
+   
+}
+ .clock>.secs{
+    font-size: 12px;
+    position: relative;
+    left: 605px;
+    bottom: 0px;
+
+
+   
+}
+.clock{
+    display: flex;
+    position: relative;
+    right: 60px;
+}
+
+
+.sec1{
+    width: 100%;
+    height: 570vh;
+    background-color: #12151b;
+}
+
+
+
+.text{
+    color: white;
+    position: relative;
+    top: 150px;
+    font-size: 32px;
+    left: 25px;
+    width: 800px;
+   }
+   .text>h1>span{
+color: #b573f8;
+    
+   }
+   .text>p{
+    font-size: 28px;
+    margin-top: -25px;
+    color: rgb(191, 191, 189);
+   }
+
+   .btn1{
+    width: 330px;
+    height: 52px;
+    border-radius: 5px;
+    background-color: #2191ff;
+    font-size: 16px;
+    color: aliceblue;
+   }
+   .btn2{
+    width: 330px;
+    height: 52px;
+    border-radius: 5px;
+    background-color: #131516;
+    font-size: 16px;
+    color: aliceblue;
+   }
+
+   .btn2>img{
+    position: relative;
+    top: 3px;
+    left: 3px;
+    width: 15px;
+   }
+
+   .sec1>img{
+    width: 400px;
+    position: relative;
+    bottom: 290px;
+    left: 800px;
+   }
+
+   .exe{
+    display: flex;
+    margin-left: 5px;
+    position: relative;
+    bottom: -40px;
+   }
+   .exe>p{
+    font-size: 20px;
+    margin-left: 5px;
+   }
+   .exe>img{
+    margin-left: 5px;
+   }
+
+
+
+
+
+
+   .iner-sec {
+    width: 100%;
+    display: flex;
+    position: relative;
+    bottom: 160px;
+
+}
+
+.iner-sec>.fst {
+    width: 350px;
+    height: 315px;
+    border-radius: 8px;
+    background-color: rgb(36 44 56);
+    position: relative;
+    left: 30px;
+
+
+}
+
+.iner-sec>.second {
+    width: 350px;
+    height: 425px;
+    border-radius: 8px;
+    background-color: rgb(36 44 56);
+    position: relative;
+    top: 330px;
+    right: 290px;
+    display: block;
+
+}
+
+.iner-sec>.four {
+    width: 350px;
+    height: 425px;
+
+    border-radius: 8px;
+    background-color: rgb(36 44 56);
+    position: relative;
+    left: 290px;
+
+
+}
+
+
+
+
+
+       .fst>img{
+        position: relative;
+        left: 55px;
+        top: 25px;
+    }
+    .fst>h4{
+        color: white;
+        position: relative;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        width: 230px;
+        left: 50px;
+        top:25px;
+        font-size: 22px;
+    }
+    .fst>p{
+        color: rgb(178, 178, 178);
+        font-size: 21px;
+        position: relative;
+        font-weight: bold;
+        top: 10px;
+        left: 40px;
+    }
+
+
+    .second>img{
+        position: relative;
+        top: 80px;
+        
+        }
+        .second>p{
+            color: rgb(180, 179, 179);
+            font-size: 20px;
+            position: relative;
+            top: 70px;
+            left: 35px;
+            font-weight: bold;
+        }
+        .second>h4{
+            position: absolute;
+            left: 35px;
+            font-weight: bold;
+            font-size: 25px;
+            color: white;
+        }
+
+
+
+        
+    .four>img {
+        position: relative;
+        top: 30px;
+        left: 60px;
+    }
+
+    .four>h1 {
+        position: relative;
+        left: 125px;
+        top: 25px;
+        color: goldenrod;
+        width: 100px;
+        font-weight: bolder;
+        font-size: 50px;
+    }
+
+    .four>h4 {
+        font-size: 24px;
+        width: 270px;
+        justify-content: center;
+        text-align: center;
+        position: relative;
+        left: 30px;
+        bottom: 10px;
+        color: white;
+        font-family: sans-serif;
+
+        font-weight: bold;
+    }
+    .four>p{
+        position: relative;
+        bottom: 35px;
+        color: rgb(202, 202, 202);
+        justify-content: center;
+        font-size: 21px;
+        text-align: center;
+        font-family: sans-serif;
+    }
+
+
+
+    .iner-sec>.five {
+        height: 315px;
+
+        width: 350px;
+        border-radius: 8px;
+        background-color: rgb(36 44 56);
+        position: relative;
+        top: 440px;
+        right: 30px;
+
+
+    }
+.five>h2{
+    color: white;
+   justify-content: center;
+   text-align: center;
+
+}
+.five>p{
+    color: rgb(202, 202, 202);
+    font-size:21px;
+    text-align: center;
+}
+.five>img{
+    position: relative;
+    left: 65px;
+}
+
+.iner-sec>.third {
+    width: 540px;
+    height: 760px;
+    border-radius: 8px;
+    background-color: rgb(36 44 56);
+    position: absolute;
+    top: 0px;
+    right: 365px;
+    display: block;
+    text-align: center;
+    color: white;
+
+}
+.third>img{
+
+    position: relative;
+    top: 200px;
+
+}
+.third>h2{
+    position: relative;
+    top: 210px;
+    font-size: 34px;
+}
+.third>h3{
+    font-size: 35px;
+    position: relative;
+    top: 180px;
+    color: rgb(4, 155, 155);
+}
+
+.third>p{
+    position: relative;
+    top: 165px;
+    font-size: 21px;
+    color: rgb(193, 189, 183);
+}
+
+.third>button{
+    position: relative;
+    top: 170px;
+    width: 365px;
+    height: 46px;
+    border-radius: 8px;
+    color: white;
+    background-color: #1a84b8;
+    font-size: 18px;
+    font-weight: bold;
+}
+.third>button>img{
+    position: relative;
+    left: 4px;
+    top: 2px;
+}
