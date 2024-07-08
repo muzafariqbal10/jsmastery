@@ -12,6 +12,7 @@ body {
     display: flex;
     text-align: center;
     align-items: center;
+    
 
 }
 .navbar>p{
@@ -85,7 +86,7 @@ color:  #00ffb2;
 
 .sec1{
     width: 100%;
-    height: 570vh;
+    height:275vh;
     background-color: #12151b;
 }
 
@@ -379,3 +380,197 @@ color: #b573f8;
     left: 4px;
     top: 2px;
 }
+
+
+
+
+
+
+.sec3>p{
+    font-size: 38px;
+    position: relative;
+    top: 80px;
+    color: white;
+   }
+   
+   .sec3>button{
+    width: 400px;
+    height: 67px;
+    margin-top: 65px;
+    font-size: 30px;
+    color: #FF766C;
+    background-color: rgb(36 44 56);
+    border-radius: 10px;
+    border: none;
+    
+   }
+
+   .sec3>button>.st-img{
+margin-right: 10px;
+   }
+   .sec3>button>.nd-img{
+    margin-left: 10px;
+   }
+
+   .sec3>h3{
+    color: rgb(178, 175, 175);
+    font-size: 21px;
+   }
+   .sec3>.bt-bu{
+    width: 390;
+    height: 59px;
+    margin: 10px;
+    font-size: 20px;
+    color: white;
+   }
+   .sec3>.bt-bu>img{
+    position: relative;
+    top: 4px;
+   }
+
+
+   .sec3>.paragraph{
+    width: 70%;
+    color: white;
+    text-align: left;
+    position: relative;
+    left: 230px;
+    top: 30px;
+   }
+  .paragraph>p{
+    font-size: 24px;
+    color: #D0DFFF;
+    position: relative;
+    top: 25px;
+  }
+  .paragraph>P>span{
+    margin-right: 10px;
+  color:#ffffff;
+  font-weight: bolder;
+  }
+
+  .paragraph>h1{
+    position: relative;
+    bottom: 15px;
+
+  }
+
+  .paragraph>h2{
+    position: relative;
+    top: 45px;
+    font-size: 32px;
+    
+  }
+  .paragraph>.pr{
+position: relative;
+top: 60px;
+  }
+
+  .paragraph>button{
+    width: 809px;
+    height: 71px;
+    position: relative;
+    top: 100px;
+    font-size: 27px;
+    color:rgb(147, 255, 219);
+    background-color: rgb(31, 50, 44);
+    border-radius: 8px;
+    border: none;
+}
+.paragraph>button>img{
+    position: relative;
+    top: 5px;
+    right: 10px;
+}
+  
+
+
+
+.sec3>.tags {
+    position: relative;
+    top: 230px;
+    color: white;
+    text-align: left;
+    margin-left: 230px;
+
+}
+
+.sec3>.tags>h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.sec3>.tags>p {
+    font-size: 19px;
+    color: rgb(193, 195, 196);
+}
+
+.sec3>.boxes {
+    position: relative;
+    top: 250px;
+    display: flex;
+    left: 200px;
+    width: 800px;
+
+
+}
+
+.sec3>.boxes>.box2 {
+    width: 120px;
+    height: 120px;
+    background-color: rgb(24, 31, 41);
+    display: block;
+    margin-left: 30px;
+    border-radius: 10px;
+    display: inline-block;
+
+
+}
+
+.sec3>.boxes>.box2>img {
+    width: 48px;
+    height: 47px;
+    position: relative;
+    top: 15px;
+
+}
+
+.sec3>.boxes>.box2>p {
+    font-size: 16px;
+    color: #D0DFFF;
+}
+
+.sec3>.sec-img {
+    position: relative;
+    top: 270px;
+    left: 30px;
+    width: 650px;
+    height: 178px;
+}
+
+
+.sec3>.sec-logo {
+    position: relative;
+    top: 412px;
+    right: 370px;
+    width: 150px;
+    height: 150px;
+}
+
+.sec-h1 {
+    position: relative;
+    top: 403px;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    right: 43px;
+
+}
+
+#im{
+position: relative;
+top: 395px;
+right: 40px;
+height: 80px;
+width: 40px;
+}
+ 
