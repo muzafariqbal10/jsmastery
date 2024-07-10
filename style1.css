@@ -744,3 +744,180 @@ width: 40px;
     top: 20px;
     left: 4px;
 }
+
+
+
+
+
+.sec3>.fig {
+    color: white;
+    position: relative;
+    top: 1060px;
+    text-align: left;
+    left: 235px;
+    width: 950px;
+
+}
+
+.sec3>.fig>.logs {
+    display: flex;
+    width: 600px;
+
+
+}
+
+.sec3>.fig>.logs>p {
+    position: relative;
+    top: 10px;
+    right: px;
+    font-size: 20px;
+}
+
+.sec3>.fig>.logs>p>img {
+    position: relative;
+    top: 5px;
+    right: 10px;
+}
+
+.sec3>.fig>h1 {
+    font-size: 30px;
+}
+
+.sec3>.fig>.logs>.logs-p {
+    position: relative;
+    left: 150px;
+}
+
+.sec3>.fig>.logs>.logs-ps {
+    position: relative;
+    left: 84px;
+}
+
+.sec3>.fig>h1 {
+    color: white;
+    position: relative;
+    font-size: 30px;
+    top: 20px;
+    right: 20px;
+}
+
+.sec3>.fig>p {
+    color: rgb(168, 168, 168);
+    position: relative;
+    top: 15px;
+    right: 17px;
+    font-size: 18px;
+}
+
+.sec3>.fig>.psd {
+    position: relative;
+    top: 20px;
+    font-size: 18px;
+    left: 0px;
+
+}
+
+.sec3>.fig>.psd>img {
+    position: relative;
+    right: 12px;
+}
+
+.sec3>.fig>button {
+    width: 809px;
+    color: white;
+    font-size: 20px;
+    height: 68px;
+    background-color: rgb(31, 50, 44);
+    position: relative;
+    top: 50px;
+    left: -15px;
+    border-radius: 10px;
+    border: none;
+}
+
+.sec3>.fig>button>img {
+    position: relative;
+    top: 5px;
+    right: 9px;
+}
+
+.sec3>.fig>h6 {
+    color: white;
+    font-size: 30px;
+    position: relative;
+    top: 35px;
+    right: 15px;
+}
+.sec3>.fig>p>.ra{
+    position: relative;
+    top: 4px;
+    right: 6px;
+}
+.sec3>.fig>p{
+    font-size: 18px;
+}
+.imgs{
+    display: flex;
+    position: relative;
+    right: 60px;
+    top: 50px;
+}
+.imgs>img{
+    width: 382px;
+    height: 492;
+    margin-left: 40px;
+}
+
+
+.sec3-sec2>h1 {
+    font-size: 30px;
+    position: relative;
+    left: -70px;
+}
+
+.sec3-sec2>p {
+    width: 100%;
+    font-size: 18px;
+    color: rgb(205, 200, 200);
+    position: relative;
+    right: 70px;
+}
+
+.sec3-sec2>img {
+    position: relative;
+    right: 50px;
+    top: 40px;
+}
+
+.sec3-sec2>h2 {
+    font-size: 30px;
+    color: white;
+    position: relative;
+    top: 100px;
+}
+
+.job {
+    width: 578px;
+    height: 90px;
+    color: white;
+    background-color: rgb(32, 41, 54);
+    font-size: 18px;
+    position: relative;
+    top: 140px;
+    text-align: center;
+    border-radius: 15px;
+
+}
+.job>p{
+    text-align: center;
+    position: relative;
+    top: 35px;
+}
+.job>img{
+    width: 65px;
+    height: 65px;
+    position: absolute;
+    left: 590px;
+    bottom: 42px;
+    text-align: right;
+}
