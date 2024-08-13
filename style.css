@@ -253,7 +253,7 @@ body {
     }
 
     .nav>ul>a {
-        margin-left: 20px;
+        margin-left: 10px;
         position: relative;
         left: 0px;
         text-decoration: none;
@@ -265,9 +265,10 @@ body {
 
     .nav>ul>img {
         position: relative;
-        left: 70px;
-        bottom: 5px;
-        display: none;
+        left: 50px;
+        bottom: -2px;
+        width: 50px;
+       
     }
 
 
@@ -389,7 +390,7 @@ body {
 
     .star>p {
         position: relative;
-        top: 1030px;
+        top: 1040px;
         left: 120px;
         width: 200px;
         display: flex;
@@ -443,7 +444,7 @@ body {
     .social>p {
         position: relative;
         right: 155px;
-        top: -34px;
+        top: -40px;
         font-size: 16px;
         font-weight: bold;
       
@@ -467,5 +468,3 @@ body {
 
 
 }
-
-
