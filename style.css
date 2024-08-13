@@ -276,7 +276,7 @@ body {
 
     .sec1 {
         width: 100%;
-        height: 176vh;
+        height: 186vh;
         position: relative;
         background-color: rgb(13 17 23)
     }
@@ -353,12 +353,12 @@ body {
     }
 
     .pra {
-        font-size: 24px;
+        font-size: 22px;
         color: rgb(129, 123, 112);
         position: relative;
         top: 200px;
         left: 35px;
-        width: 100px;
+        width: 200px;
         font-weight: bold;
 
 
