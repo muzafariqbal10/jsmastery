@@ -468,3 +468,278 @@ body {
 
 
 }
+
+
+
+
+
+@media  screen and  (max-width: 776px) {
+
+    nav {
+        width: 0%;
+        height: 80px;
+        /* background-color: rgb(7, 9, 12); */
+        position: relative;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+
+    .nav>img {
+        position: relative;
+        left: 45px;
+        width: 54px;
+        height: 39px;
+    }
+
+    .nav>ul {
+        display: flex;
+        position: relative;
+        width: 600px;
+        left: 10px;
+        font-size: 12px;
+        list-style: none;
+
+
+    }
+
+    .nda {
+        color: #4ca5ff;
+    }
+
+    .nav>ul>a {
+        position: relative;
+        left: 30px;
+        font-size: 17px;
+        width: 100%;
+        top: 10px;
+        text-decoration: none;
+        list-style: none;
+        font-family: Arial, Helvetica, sans-serif;
+        font-family: Georgia, serif;
+
+    }
+
+    .nav>ul>img {
+        position: relative;
+        left: 50px;
+        bottom: -2px;
+        width: 70px;
+       
+    }
+
+
+
+
+
+
+
+
+
+    
+    .sec1 {
+        width: 100%;
+        height: 186vh;
+        position: relative;
+        background-color: rgb(13 17 23);
+       
+    }
+
+    .sec1>p>span {
+        color: #b573f8;
+    }
+
+    .sec1>p {
+        color: white;
+        width: 310px;
+        font-weight: bolder;
+        font-family: sans-serif;
+        font-size: 32px;
+        letter-spacing: 2px;
+        position: absolute;
+        top: 0px;
+        left: 38px;
+        font-weight: bold;
+        display: none;
+    }
+
+    .sec1>img {
+        width: 326px;
+        height: 247px;
+        position: absolute;
+        left: 40px;
+        top: 510px;
+        display: none;
+    }
+
+    .sec1>.bot {
+        position: relative;
+        top: 420px;
+        right: 17px;
+        display: none;
+    }
+
+    .sec1>.bot>.one {
+        width: 320px;
+        height: 62px;
+        font-size: 17px;
+        position: relative;
+        bottom: 190px;
+        left: 40px;
+        margin-left: 10px;
+        border-radius: 10px;
+        background-color: #2190ff;
+        color: white;
+        box-shadow: 0 10px 26px 0 rgba(217, 206, 206, 0.2), 0 6px 20px 0 rgba(238, 238, 238, 0.19);
+        box-shadow: 7px 8px;
+        display: none;
+
+
+    }
+
+    .sec1>.bot>.two {
+        position: relative;
+        left: 35px;
+        bottom: 160px;
+        width: 320px;
+        height: 62px;
+        font-size: 17px;
+        margin-left: 20px;
+        border-radius: 10px;
+        background-color: #b573f8;
+        color: white;
+        box-shadow: 0 10px 26px 0 rgba(217, 206, 206, 0.2), 0 6px 20px 0 rgba(238, 238, 238, 0.19);
+        box-shadow: 7px 8px rgb(32, 28, 28);
+        display: none;
+
+
+    }
+
+    .bot>p {
+        font-size: 20px;
+        color: white;
+        display: none;
+
+    }
+
+    .pra {
+        font-size: 22px;
+        color: rgb(129, 123, 112);
+        position: relative;
+        top: 200px;
+        left: 35px;
+        width: 200px;
+        font-weight: bold;
+        display: none;
+
+
+
+    }
+
+    .star {
+        margin-bottom: 50px;
+ display: none;
+    }
+
+    .star>img {
+        width: 120px;
+        position: relative;
+        top: 1000px;
+        left: 100px;
+        display: none;
+
+
+    }
+
+    .star>.nd {
+        width: 200px;
+        display: block;
+        position: absolute;
+        margin-top: 245px;
+
+
+    }
+
+    .star>p {
+        position: relative;
+        top: 1040px;
+        left: 120px;
+        width: 200px;
+        display: flex;
+        display: none;
+
+
+
+
+    }
+
+    .social {
+        width: 250px;
+        color: white;
+        display: flex;
+        position: relative;
+        top: 1070px;
+        left: 140px;
+
+        display: none;
+    }
+
+    .social>h3 {
+    position: relative;
+    display: none;
+    }
+
+    .social>h3>img {
+        width: 19px;
+        height: 12px;
+        position: relative;
+        right: 55px;
+        display: none;
+    }
+
+    .social>h3>span {
+        position: relative;
+        bottom: 20px;
+        left: -30px;
+        font-size: 16px;
+        display: none;
+
+    }
+
+    .social>h3>.stspan {
+        position: relative;
+        bottom: px;
+        left: 10px;
+        display: none;
+
+
+    }
+
+    .social>p {
+        position: relative;
+        right: 155px;
+        top: -40px;
+        font-size: 16px;
+        font-weight: bold;
+        display: none;
+
+
+    }
+
+
+    .left-logo {
+        width: 200px;
+        position: relative;
+        top: 450px;
+        display: none;
+        left: 80px;
+    }
+
+    .left-logo>img {
+        width: 229px;
+        height: 262px;
+        display: none;
+    }
+
+
+}
